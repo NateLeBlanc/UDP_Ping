@@ -1,5 +1,4 @@
 #Nathan LeBlanc
-#Homework 3
 #UDP Socket Demo
 
 import time
